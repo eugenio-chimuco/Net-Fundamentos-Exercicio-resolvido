@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\bin\Debug\net6.0\DesafioFundam.exe
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\bin\Debug\net6.0\DesafioFundam.deps.json
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\bin\Debug\net6.0\DesafioFundam.runtimeconfig.json
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\bin\Debug\net6.0\DesafioFundam.dll
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\bin\Debug\net6.0\DesafioFundam.pdb
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.dll
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\refint\DesafioFundam.dll
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.pdb
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\DesafioFundam.genruntimeconfig.cache
+C:\Users\User\source\repos\DesafioFundam\DesafioFundam\obj\Debug\net6.0\ref\DesafioFundam.dll
